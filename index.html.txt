@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Dropshipping Bot</title>
+</head>
+<body>
+    <h1>Welcome to Dropshipping Bot!</h1>
+    <p>Product search will be here</p>
+</body>
+</html>
